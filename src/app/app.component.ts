@@ -26,5 +26,5 @@ import { RouterModule } from '@angular/router';
 
 })
 export class AppComponent {
-  title = 'properties-app';
+  title = 'homes-app';
 }

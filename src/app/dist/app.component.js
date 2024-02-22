@@ -12,7 +12,7 @@ var home_component_1 = require("./home/home.component");
 var router_1 = require("@angular/router");
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
-        this.title = 'properties-app';
+        this.title = 'homes-app';
     }
     AppComponent = __decorate([
         core_1.Component({
