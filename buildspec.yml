@@ -15,4 +15,4 @@ commands:
 post_build:
 commands:
 - echo "Updating files in the S3 bucket..."
-- aws s3 sync dist/hello-bootstrap/browser s3://angular-bootstrap-s3-github --delete
+- aws s3 sync dist/properties-app/browser s3://angular-bootstrap-s3-github --delete
